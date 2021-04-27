@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SilverSLA
 - 👀 I’m interested in Web service and blockchain now
-- 🌱 I’m currently making trading bot with UpbitAPI
+- 🌱 I’m currently making a trading bot with UpbitAPI
 
 <!---
 brown2243/brown2243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
