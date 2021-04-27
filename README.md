@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SilverSLA
-- 👀 I’m interested in Web skill and blockchain now
+- 👀 I’m interested in Web service and blockchain now
 - 🌱 I’m currently making trading bot with UpbitAPI
 
 <!---
