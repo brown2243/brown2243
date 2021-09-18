@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SilverSLA.
 - 👀 I’m interested in Web service and blockchain now.
-- 🌱 I’m currently working in R2V.
+- 🌱 I’m currently working in a R2V.
 
 <!-- - This is what i'm studying now!!! -> [Notion_Link](https://nickel-firefly-bb0.notion.site/d3cb4cc96b4545a9abb0ac3a6efa1316) -->
 <!---
