@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Brown
+- 👋 Hi, I’m Brown and working as a FE developer
