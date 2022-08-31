@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Brown and working as a FE developer
+- 👋 Hi, I’m Brown and working as a FE developer @R2V.
