@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Brown and working as a FE developer [@R2V](https://flynt.finance/).
+- 👋 Hi, I’m Brown and working as a FE developer [@FLYNT](https://flynt.finance/).
