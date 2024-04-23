@@ -1,5 +1,5 @@
 
-**Hi 👋 I’m Brown and has been working over 2 years as a FE developer**
+**Keep Going!!!**
 
 <br />
 
