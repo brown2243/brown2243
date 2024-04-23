@@ -1,5 +1,6 @@
+<h1>Brown</h1>
 
-**Keep Going!!!**
+*Hi 👋 I’m Brown and has been working over 2 years as a FE developer*
 
 <br />
 
