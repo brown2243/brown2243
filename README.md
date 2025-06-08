@@ -1,6 +1,6 @@
 <h1>Brown</h1>
 
-*Hi 👋 I’m Brown and has been working over 2 years as a FE developer*
+*Hi 👋 I’m Brown*
 
 <br />
 
